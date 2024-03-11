@@ -10,7 +10,8 @@ Welcome to pdf6's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   factura2
+   ejemploRST
 
 Indices and tables
 ==================
