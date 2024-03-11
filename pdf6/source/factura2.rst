@@ -68,13 +68,13 @@ Imaxes
    :align: center
 
 Notas de pie:
-`````````````
+-------------
 
 Este texto está realizado con Spinhx [#n1]_ para realizar la documentación.
 
 
 Directivas
-``````````
+----------
 
 ..
     Las posibilidades de las directivas son:
