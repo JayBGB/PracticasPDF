@@ -12,6 +12,7 @@ Welcome to pdf6's documentation!
 
    factura2
    ejemploRST
+   nicoRST
 
 Indices and tables
 ==================
